@@ -1,0 +1,34 @@
+.burimet{
+    text-align: center;
+    color: black;
+    float: left;
+    font-family: 'Open Sans', sans-serif;
+}
+
+table {
+    font-family: 'Open Sans', sans-serif;
+    border-collapse: collapse;
+    width: auto;
+    margin-top: 12%;
+    margin-bottom: 15px;
+}
+
+td, th {
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+background-color: #dddddd;
+}
+
+a{
+    color: black;
+    float: left;
+    font-family: 'Open Sans', sans-serif;
+}
+
+a:hover{
+    color: dimgrey;
+}
